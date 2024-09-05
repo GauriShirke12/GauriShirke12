@@ -1,5 +1,3 @@
-![logo](https://github.com/GauriShirke12/GauriShirke12/blob/main/dev.jpg)
-
 
 <h1 align="center">Hi 👋, I'm Gauri Shirke</h1>
 <h3 align="center">A passionate Software developer from India</h3>
