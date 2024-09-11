@@ -3,9 +3,6 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Gauri Shirke</h1>
-<p align="left">
-  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
-</p>
 
 
 <h3 align="center">A passionate Full stack web developer from India. </h3>
