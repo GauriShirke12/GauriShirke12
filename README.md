@@ -10,7 +10,7 @@
   
 
 <p align="left">
-  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="2500">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="2500px">
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gaurishirke12&label=Profile%20views&color=0e75b6&style=flat" alt="gaurishirke12" /> </p>
