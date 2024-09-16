@@ -7,9 +7,10 @@
 
 <h3 align="center">A passionate Full stack web developer from India. </h3>
 
-  <p align="left">
-  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="567">
+ <p align="left">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
 </p>
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gaurishirke12&label=Profile%20views&color=0e75b6&style=flat" alt="gaurishirke12" /> </p>
