@@ -15,9 +15,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gaurishirke12&label=Profile%20views&color=0e75b6&style=flat" alt="gaurishirke12" /> </p>
 
-- 🌱 I’m currently learning **React ,DSA**
+- 🌱 I’m currently learning **Full-Stack Development to build scalable and efficient web applications**
 
-- 💬 Ask me about **HTML CSS JS MYSQL MONGODB**
+- 💬 Ask me about **MERN Stack Development**
 
 - 📫 How to reach me **gaurishirke.2005@gmail.com**
 
