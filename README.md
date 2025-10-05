@@ -46,15 +46,24 @@
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
 </p>
 
+<h3 align="left">📊 GitHub Stats</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gaurishirke12&show_icons=true&theme=radical" alt="gaurishirke12" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gaurishirke12&show_icons=true&theme=radical" alt="gaurishirke12" /></p>
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GauriShirke12&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GauriShirke12&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 <p align="left">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
 </p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gaurishirke12&" alt="gaurishirke12" /></p>
+
+![Repos Per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GauriShirke12&theme=blue_green)
+![Most Commit Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GauriShirke12&theme=blue_green)
+
+
+
+![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GauriShirke12&theme=blue_green&utcOffset=8)
+
+
+
+
