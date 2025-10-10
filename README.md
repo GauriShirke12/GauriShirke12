@@ -47,7 +47,7 @@
 </p>
 
 
-  <h3 align="left">Hacktoberfest(24) Badges 🪶</h3>
+  <h3 align="left">Hacktoberfest(25) Badges 🪶</h3>
   
 [![An image of @gaurishirke12's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gaurishirke12)](https://holopin.io/@gaurishirke12)
 
