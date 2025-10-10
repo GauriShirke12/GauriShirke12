@@ -46,6 +46,17 @@
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
 </p>
 
+
+  <h3 align="left">Hacktoberfest(24) Badges 🪶</h3>
+  
+[![An image of @gaurishirke12's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gaurishirke12)](https://holopin.io/@gaurishirke12)
+
+
+<p align="left">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
+</p>
+
+
 <h3 align="left">📊 GitHub Stats</h3>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GauriShirke12&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true)
