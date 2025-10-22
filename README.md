@@ -83,6 +83,7 @@
 ![Most Commit Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GauriShirke12&theme=blue_green)
 ![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GauriShirke12&theme=blue_green&utcOffset=8)
 
+![GauriShirke12's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GauriShirke12&theme=blue-green&bg_color=00000000&color=37BCF6&line=00FFBF&point=00FFBF&area=true&hide_border=true)
 
 
 
