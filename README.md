@@ -47,7 +47,7 @@
 </p>
 
 
-  <h3 align="left">Hacktoberfest(25) Badges 🪶</h3>
+  <h3 align="left">Hacktoberfest'25 Badges 🪶</h3>
   
 [![An image of @gaurishirke12's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gaurishirke12)](https://holopin.io/@gaurishirke12)
 
@@ -74,8 +74,9 @@
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
 </p>
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=GauriShirke12&theme=blue-green&hide_border=true)
+
 ![Repos Per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GauriShirke12&theme=blue_green)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=GauriShirke12&theme=blue-green&hide_border=true)
 <p align="left">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
 </p>
