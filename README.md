@@ -55,7 +55,6 @@
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
 </p>
 
-
 <h3 align="left">🏆 GitHub Trophies</h3>
 
 [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=GauriShirke12&theme=shadow_blue&no-frame=false&no-bg=true&margin-w=4)](https://github.com/GauriShirke12)
@@ -67,22 +66,21 @@
 
 <h3 align="left">📊 GitHub Stats</h3>
 
+<p align="center" >
+  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GauriShirke12&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GauriShirke12&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=GauriShirke12&layout=compact&theme=radical" alt="Gauri Shirke Top Languages"    width="354"/>
+
+<img src="https://github-readme-stats-fast.vercel.app/api?username=GauriShirke12&show_icons=true&theme=radical" alt="Gauri Shirke GitHub Stats" />
+
+</p>
 <p align="left">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
 </p>
-
-
-![Repos Per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GauriShirke12&theme=blue_green)
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=GauriShirke12&theme=blue-green&hide_border=true)
-<p align="left">
-  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
+<p align="center">
+<img src="https://github-readme-stats-fast.vercel.app/api/streak?username=GauriShirke12&theme=radical" alt="GauriShirke12's GitHub Streak Stats" />
 </p>
 
-![Most Commit Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GauriShirke12&theme=blue_green)
-![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GauriShirke12&theme=blue_green&utcOffset=8)
 
 ![GauriShirke12's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GauriShirke12&theme=blue-green&bg_color=00000000&color=37BCF6&line=00FFBF&point=00FFBF&area=true&hide_border=true)
 
