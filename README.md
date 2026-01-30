@@ -46,6 +46,16 @@
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
 </p>
 
+<h3 align="left">🏆 GitHub Trophies</h3>
+
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=GauriShirke12&theme=shadow_blue&no-frame=false&no-bg=true&margin-w=4)](https://github.com/GauriShirke12)
+
+
+
+<p align="left">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
+</p>
+
  <h3 align="left"> GSSOC Badges 🪶</h3>
 
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
@@ -70,14 +80,6 @@
   
 [![An image of @gaurishirke12's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gaurishirke12)](https://holopin.io/@gaurishirke12)
 
-
-<p align="left">
-  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
-</p>
-
-<h3 align="left">🏆 GitHub Trophies</h3>
-
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=GauriShirke12&theme=shadow_blue&no-frame=false&no-bg=true&margin-w=4)](https://github.com/GauriShirke12)
 
 
 <p align="left">
